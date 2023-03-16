@@ -5,6 +5,10 @@ User Interface Project
 - Adding, deleting, editing and viewing functions are available in the application.
 - Python (Tkinter) and SQL are used in the application.
 
+Those who contributed to this project:
+- <a href="https://www.(https://www.linkedin.com/in/ismail-bugra-tutanc/)">İsmail Buğra TUTANÇ</a>
+- <a href="https://www.(https://www.linkedin.com/in/mert-erdem-/)">Mert ERDEM</a>
+
 <h2>SCREENSHOTS</h2>
 <h4>Main Screen</h4>
 <img src="https://user-images.githubusercontent.com/56932623/225429879-bbd2e39f-0b6f-4375-a8f6-927947fd2eca.png" alt="Main Screen" width="450" height="360">
