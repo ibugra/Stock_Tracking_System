@@ -6,8 +6,8 @@ User Interface Project
 - Python (Tkinter) and SQL are used in the application.
 
 Those who contributed to this project:
-- <a href="https://www.https://www.linkedin.com/in/ismail-bugra-tutanc/">İsmail Buğra TUTANÇ</a>
-- <a href="https://www.https://www.linkedin.com/in/mert-erdem-/">Mert ERDEM</a>
+- <a href="https://www.linkedin.com/in/ismail-bugra-tutanc/">İsmail Buğra TUTANÇ</a>
+- <a href="https://www.linkedin.com/in/mert-erdem-/">Mert ERDEM</a>
 
 <h2>SCREENSHOTS</h2>
 <h4>Main Screen</h4>
